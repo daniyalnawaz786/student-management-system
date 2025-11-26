@@ -57,6 +57,16 @@ This project is designed for beginners to understand:
 - Add a GUI using Tkinter or PyQt
 - Add database support (SQLite or MySQL)
 - Add authentication for admin access
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecb82d54-5e41-4314-bb16-53663bf2536a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f1e4277-90d1-4eef-a96d-c23c7aef967d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0c30566-9d79-4173-a502-e47429e374b3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acc09b7b-fad0-4096-9f79-709265f50f2a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e4e98e5-71a2-4dec-a44e-b8c56ee2e6b6" />
+
+
+
+
+
 
 ---
 
